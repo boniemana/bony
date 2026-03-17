@@ -43,14 +43,6 @@ I specialize in creating seamless user experiences by combining **aesthetic prec
 </p>
 ---
 
-## 📂 Featured Work
-
-| Project | Role | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **SaaS Dashboard** | UI/UX & Frontend | Next.js, Figma, Tailwind | [Repo](https://github.com/[YOUR-USERNAME]/repo) |
-| **Design System** | Engineer | TypeScript, Storybook | [Repo](https://github.com/[YOUR-USERNAME]/repo) |
-| **Mobile App** | UI Design | React Native, Firebase | [Case Study](https://yourportfolio.com) |
-
 ---
 
 ## 📫 Let's Collaborate!
