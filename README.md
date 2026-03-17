@@ -34,8 +34,8 @@ I specialize in creating seamless user experiences by combining **aesthetic prec
 ## 📊 My GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Bony]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Bony]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[bony]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[bony]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
