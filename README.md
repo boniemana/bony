@@ -15,7 +15,7 @@
 </p>
 
 
-<p>___________________________________________</p>
+<p align "center">___________________________________________</p>
 
 ## 🎨 Design meets 💻 Engineering
 I specialize in creating seamless user experiences by combining **aesthetic precision** with **technical performance**. I don't just build components; I design systems.
