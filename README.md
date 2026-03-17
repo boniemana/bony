@@ -8,7 +8,7 @@
 ## 🎨 Design meets 💻 Engineering
 I specialize in creating seamless user experiences by combining **aesthetic precision** with **technical performance**. I don't just build components; I design systems.
 
-- 🔭 I’m currently working on **["debo" job application website ui/ux design]**
+- 🔭 I’m currently working on **[ ui/ux design]**
 - 🌱 I’m currently learning **[Three.js / Rust / Advanced UX Research]**
 - ⚡ Fun fact: **I believe Css is a superpower.**
 
