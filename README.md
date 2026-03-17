@@ -52,9 +52,9 @@ I specialize in creating seamless user experiences by combining **aesthetic prec
 
 ## 📫 Let's Collaborate!
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/[YOUR-LINKEDIN])
-[<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=polywork&logoColor=white" />](https://yourwebsite.com)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:yourname@email.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/[https://www.linkedin.com/in/bontu-emana-35a483350])
+[<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=polywork&logoColor=white" />](https://bonysportfolio.netlify.app)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:bontuemana7@email.com)
 
 ---
 <p align="center">
